@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # My data sciense projects - tracker071224
 
@@ -10,3 +11,7 @@
 * [Проект 2._______] 
 
 >>>>>>> 0b7d79a (project2)
+=======
+# tracker071224
+i_homework
+>>>>>>> 0356c33 (Initial commit)
