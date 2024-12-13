@@ -1,17 +1,17 @@
 # Проект 1. Угадай число.
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание_проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Описание_проекта)  
+[2. Какой кейс решаем?](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Результат)    
+[6. Выводы](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,28 +31,26 @@
 
 ### Краткая информация о данных 
 
-random_predict ([type]):   функция угадывания
-score_game(random_predict): функция среднего количества попыток угадывания для 1000 ранжомных  чисел
+...........
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 - написали код для игры угадай число, где компьютер загадывает - мы угадываем
-- создали функцию random_predict ([type]) для угадывания числа за наименьшее число попыток
+- создали функцию random_predict ([type]) для угадывания числа за наименьшее число попыток используя код первой игры и усовершенствовали поиск с помощью наименьшего и наибольшего значений.
 - создали функцию score_game(random_predict), где первая является аргументом второй и находим среднее зачение колличества попыток за 1000 повторений
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
+:arrow_up:[к оглавлению](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Оглавление)
 
 ### Результаты: 
 
 - среднее колличество выходит 5 попыток, после проведения небольшого тестирования было выявлено, что при разных значениях повторений результат варьируется от 5 до 9 попыток. 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 - с помощью бинарного поиска получили практически минимальное колличество попыток угадывания числа. 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/manopolian/homework_game/tree/first_commit/project_1/README.md#Оглавление)
